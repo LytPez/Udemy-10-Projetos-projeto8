@@ -23,6 +23,9 @@ var lista_de_filmes = [
   },
  
 ]
+/*
+ utilizando o onload, que ao pagina carregar fará oque estiver dentro do bloco de codigo, temos uma função que irá por meio do loop for, adicionar as propriedades trailer,img,nome a variavel nome, em seus respectivos lugares como um bloco de codigos html, e adicionar ao html o valor da variavel
+*/
 
 window.onload=function(){
   
